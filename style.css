@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: azure;
+}
+
+.splash {
+    margin-top: 15%;
+}
+
+.splash h1 {
+    font-family: 'Capriola', sans-serif;
+    font-size: 5vw;
+    color: cornflowerblue;
+    letter-spacing: 0.25ch;
+    text-align: center;
+}
